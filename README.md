@@ -25,6 +25,10 @@ Proyek ini bertujuan untuk membuat sistem kontrol LED ganda menggunakan NodeMCU 
 
 # 1. Design Skematik
 
+![posttest1_skematik design](https://github.com/yudthadtyaaa/-posttest1-praktikum-iot-unmul-2024/assets/95072812/6125fc4a-07a6-4c2a-af15-6e4a3df77d1e)
+
 # 2. Our Skematik
+
+![posttest1_skematik real](https://github.com/yudthadtyaaa/-posttest1-praktikum-iot-unmul-2024/assets/95072812/4b15abe8-71ce-40d2-b436-26224a96abe4)
 
 
