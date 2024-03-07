@@ -23,6 +23,8 @@ Proyek ini bertujuan untuk membuat sistem kontrol LED ganda menggunakan NodeMCU 
 
 ## Board Schematic
 
-1. 
+# 1. Design Skematik
+
+# 2. Our Skematik
 
 
